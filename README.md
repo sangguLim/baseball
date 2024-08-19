@@ -1,4 +1,9 @@
 # baseball
+## 가상환경 생성
+#### 생성
+```python -m virtualenv venv --python=python3.9```
+#### 활성화
+```.\venv\Scripts\activate```
 ## requirements.txt 생성 및 설치
 #### 생성
 ```pip freeze > requirements.txt```
